@@ -1,0 +1,10 @@
+
+# ignore a directory
+/target
+
+# ignore a file type
+*.gem
+
+# Ignore all *.config files except the default that ships
+*.config
+!default.config
